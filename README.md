@@ -1,5 +1,6 @@
-# mcgill-notes
-These are notes from some of the courses I've taken. I put a lot of effort into these notes, and it's paid off (As for all these classes except MTH 240). It felt like a shame to let these notes rot in a landfill, so I'm sharing them publicly in case they can be helpful to someone else too -- content-wise or as inspiration for how to structure study notes.
+# McGill Course Notes
+
+These are notes from some of the courses I've taken. I put a lot of effort into these notes, and it's paid off (As for all these classes except MATH 240). It felt like a shame to let these notes rot in a landfill, so I'm sharing them publicly in case they can be helpful to someone else too -- content-wise or as inspiration for how to structure study notes.
 
 A caveat: they're mostly handwritten - no time to type them up sorry - but I think they're legible enough!
 
