@@ -8,6 +8,9 @@ A caveat: they're mostly handwritten - no time to type them up sorry - but I thi
 
 ## Courses:
 
+* [**ECON 452** - Advanced Microeconomics (Honours)](econ-452-final.pdf); taken with Licun Xue in Fall 2021
+  * summarized notes for coalitional games, Nash bargaining solution, matching theory, and mechanism design
+
 * [**ECON 468** - Econometrics 1 (Honours)](econ-468/); taken with Russell Davidson in Fall 2019
   * detailed notes for the first 3 chapters of Econometric Theory and Methods, Russell Davidson and James G. MacKinnon -- regression models, numerical and statistical properties of OLS
 
